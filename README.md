@@ -19,10 +19,6 @@ A smart, modern web app that evaluates tech resumes against job descriptions usi
 
 ---
 
-## 🚀 Demo
-
-Live App: [Insert Your Live Link Here]
-
 ---
 
 ## 🛠️ Tech Stack
